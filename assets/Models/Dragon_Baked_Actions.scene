@@ -1,0 +1,34 @@
+<scene exported_by="Manjinder Singh" formatVersion="1.0.1" previous_export_time="1492399182.997693" export_time="1492399221.406818" >
+  <nodes >
+    <node name="Armature" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qx="0.000000" qz="-0.000000" qy="0.000000" qw="1.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <user_data name="pov" type="IDPropertyGroup" value='&lt;bpy id prop: owner="OBArmature", name="pov", address=0x000001B78FC169C8&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="Dragon_Mesh" >
+        <position x="0.000000" y="0.000001" z="-0.000000" />
+        <rotation qx="0.000000" qz="-0.000000" qy="0.000000" qw="1.000000" />
+        <scale x="1.000000" y="1.000000" z="1.000000" />
+        <user_data name="coat3D" type="IDPropertyGroup" value='&lt;bpy id prop: owner="OBDragon_Mesh", name="coat3D", address=0x000001B78FC16398&gt;' />
+        <user_data name="pov" type="IDPropertyGroup" value='&lt;bpy id prop: owner="OBDragon_Mesh", name="pov", address=0x000001B78FC17C58&gt;' />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity friction_y="1.0" lock_trans_x="False" actor="False" lock_rot_z="False" lock_rot_x="False" lock_trans_y="False" physics_type="NO_COLLISION" ghost="False" mass_radius="1.0" inertia_tensor="0.4000000059604645" velocity_max="0.0" name="Dragon_Mesh" lock_rot_y="False" anisotropic_friction="False" damping_trans="0.03999999910593033" mass="1.0" friction_x="1.0" damping_rot="0.10000000149011612" meshFile="Dragon_Mesh.mesh" velocity_min="0.0" friction_z="1.0" lock_trans_z="False" >
+          <user_data name="ms3d" type="IDPropertyGroup" value='&lt;bpy id prop: owner="MEDragon_Mesh", name="ms3d", address=0x000001B78FBEBDC8&gt;' />
+        </entity>
+      </node>
+    </node>
+  </nodes>
+  <externals />
+  <environment >
+    <colourBackground r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+    <colourAmbient r="0.0" g="0.0" b="0.0" />
+    <colourDiffuse r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

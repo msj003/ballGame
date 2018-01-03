@@ -1,0 +1,26 @@
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes.dex : \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\BuildConfig.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\MainActivity.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\R$attr.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\R$drawable.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\R$layout.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\R$string.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\classes\com\mycompany\mygame\R.class \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-jogg-49a23adf3088d698d5facaa9b7b5d99d.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-android-2d750e1776bc66836d8663e0f2ff5d7d.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-plugins-7b32cccc96b2b20d0fbe3dd1c0f7f287.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\nifty-default-controls-7a5ca12d528477a46813dd536e24fc3e.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-niftygui-34ace7779e120bc14cb1ab24f647d8df.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-core-00f4514b5272758b4bc28e488864e793.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\MyGame-a0b3e67d1b3f27d1d6bf9ad2a73e3a07.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-testdata-bd205a9c9cb59dcd35ebdb9b6fe803d4.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\j-ogg-vorbisd-8da46edb293bf7ac1263a7c2657378c6.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\nifty-style-black-c2723ccfcdc62da0a10ad3f9b06dd4af.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\j-ogg-oggd-0bdb7da5772eafc7f8c2439b51ecf6cd.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\eventbus-5d4f318e8d0799f39238c418f4eba850.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-bullet-1a3dc02f41fe25e6d80cd966df0fed84.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-effects-56a18f55fa6d695e1f789d6f8c7b67bc.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-terrain-f8328f711148914264d38581cdfae3e0.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\xmlpull-xpp3-4b1796a1686628c36157438ac790df0c.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\jME3-networking-3bef7a689ba39c1928de3601bf18ff0a.jar \
+C:\Users\Manjinder Singh\Documents\jmonkey\assign 5 ve\mobile\bin\dexedLibs\nifty-d53737d7e334580eaee4bb87d23a0ed2.jar \
